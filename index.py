@@ -4,3 +4,5 @@ def tests():
     return 1
 print('abcdef')
 this is five
+this is six
+this is  
